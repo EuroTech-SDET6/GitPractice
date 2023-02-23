@@ -1,4 +1,4 @@
-package GitPtactice.Branch;
+package GitRemotePractice.Branch;
 
 public class BranchPractice {
     public static void main(String[] args) {
